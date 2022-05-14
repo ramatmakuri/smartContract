@@ -6,6 +6,7 @@ savings account.
 The following steps are performed: 
 1. Create and work within a local blockchain development environment using the JavaScript VM provided by the Remix IDE.
 2. Script and deploy a **JointSavings** smart contract.
+
     <img width="294" alt="1 Screen Shot on contract deployment" src="https://user-images.githubusercontent.com/96159292/168446808-42dc1f85-a5a3-4f7b-90a0-150b1282e757.png">
 
 3. Interact with deployed smart contract to transfer and withdraw funds. Results in Remix IDE are provided below: 
