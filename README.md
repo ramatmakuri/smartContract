@@ -11,10 +11,12 @@ The following steps are performed:
 
 3. Interact with deployed smart contract to transfer and withdraw funds. Results in Remix IDE are provided below: 
     Step1: Set Accounts
+    
     <img width="280" alt="2 Screen Shot Set Accounts" src="https://user-images.githubusercontent.com/96159292/168446814-2cab6acf-5130-4a93-914b-30013b110f50.png">
 
     
-    Step2: Deposit 
+    Step2: Deposit
+    
     <img width="257" alt="5 Screen Shot Deposit 5 Ether" src="https://user-images.githubusercontent.com/96159292/168446820-8b7ab0b9-4d47-46fb-9b33-58cb8e9c1343.png">
 
     Step3: Withdrawal
